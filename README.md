@@ -1,6 +1,7 @@
 # Amazon_electronics_recommender
 
 Link to project description: https://jeffreyngds.com/amazon-electronics-recommender
+
 Link to dataset: https://nijianmo.github.io/amazon/index.html ELECTRONICS reviews. 
 
 A hybrid recommender of Amazon electronics based off product text reviews
